@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="black">#000000</color>
+
+
+
+    <color name="granblue">#03DAC5</color>
+    <color name="granblue2">#07514A</color>
+
+    <color name="granred">#FF0D2A</color>
+    <color name="granred2">#510707</color>
+
+    <color name="granyellow">#FFEC42</color>
+    <color name="granyellow2">#A19106</color>
+
+    <color name="granorange">#FF4F18</color>
+    <color name="granorange2">#7C2105</color>
+
+    <color name="granpink">#FF3479</color>
+    <color name="granpink2">#B60E47</color>
+
+    <color name="granpurple">#CB34E4</color>
+    <color name="granpurple2">#710783</color>
+
+    <color name="grangreen">#9EFF2D</color>
+    <color name="grangreen2">#386503</color>
+
+    <color name="gran1">#00FF5D</color>
+    <color name="gran2">#005A21</color>
+
+    <color name="gran3">#FFA203</color>
+    <color name="gran4">#5A2F00</color>
+
+</resources>
